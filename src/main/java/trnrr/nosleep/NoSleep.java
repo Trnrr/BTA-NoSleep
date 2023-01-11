@@ -15,6 +15,6 @@ public class NoSleep implements ModInitializer {
 
     @Override
     public void onInitialize() {
-        LOGGER.info("ExampleMod initialized.");
+        LOGGER.info("NoSleep initialized.");
     }
 }
